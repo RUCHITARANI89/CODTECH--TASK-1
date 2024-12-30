@@ -8,7 +8,7 @@ Domain:- Cloud Computing
 
 Duration:-December 20, 2024, to April 20, 2025
 
-Company:- CODETECH IT SOLUTIONS
+Company:- CODTECH IT SOLUTIONS
 
 Mentor:- Neela Santhosh Kumar
 
